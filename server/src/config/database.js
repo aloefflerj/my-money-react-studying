@@ -9,4 +9,3 @@ module.exports = mongoose.connect(CONNECTION_URL, {
     useNewUrlParser: true,
     useUnifiedTopology: true,
 })
-//7qZy3bwSlcRTtdry
