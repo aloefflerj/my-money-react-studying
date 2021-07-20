@@ -33,3 +33,7 @@ export function create(values) {
             })
     }
 }
+
+export function showUpdate(billinCylcle) {
+    return [showTabs('tabUpdate'), selectTab('tabUpdate')]
+}
